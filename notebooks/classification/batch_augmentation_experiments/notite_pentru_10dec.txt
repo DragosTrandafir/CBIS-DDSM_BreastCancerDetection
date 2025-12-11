@@ -1,0 +1,56 @@
+-> topics de acoperit:
+                  - de ce lesion type (calc/mass) classification
+                  - de ce segmentare + clasificare 
+
+                  data preprocessing
+                  - contrast enhancement 
+                  - normalization 
+ 
+                  custom CNN generale
+                  - arhitectura - nr layers, parametrii
+                  - compiling
+                  - training
+                  - important metrics
+
+                  custom CNN experimente
+                  - contrast enhancement
+                  - learning functions, conv base filters
+                  - batch sizes
+                  - data augmentations
+                  - kernels, dropouts
+
+                  - advanced techniques - label smoothings, LR schedulers
+
+
+Next steps:
+1. Termina excelul cu toate articolele legate de topicuri de pana acum + data augmentations
+2. Mai multe metrici inainte de data augmentation
+3. Selectezi configuratia cea mai buna
+4. Experimente data augmentation
+
+
+
+
+
+- Mai multe metrici – intermediar (f1, precision, etc)
+- Selectezi configuratia cea mai buna
+- Multi-approach dupa augmentare
+
+general notes (low priority)
+- descriere detalii augmentations
+- explicat cum am decis ordinea experimentelor
+- de ce asa putine metrici la inceput si de ce la sfarsit numa f1, recall, precision, confusion matrix
+- procentaje exacte la splituri
+- context general : AI in ML, summary la articole
+- UI - aplicatie pentru radiologi - bachelors thesis
+- lucrarea de licenta approx. 60 de pagini
+- 15 pag previous work
+- prezent in redactarea lucrarii
+- cand termin toate articolele de inclus, profa mi-a sugerat 
+•	Tabele , imagini, rezultate
+•	Despartit pe focus (clasificare vs segmentare)
+•       legate toate impreuna (better flow)
+•       ~15/60 pagini
+
+
+
